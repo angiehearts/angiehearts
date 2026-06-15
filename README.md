@@ -17,5 +17,5 @@ BUH
 </p>
 
 <p align="center">
-𝘢𝘸𝘦𝘴𝘰𝘮𝘦𝘥𝘳𝘰𝘪𝘥 𝘴𝘵𝘢𝘮𝘱 𝘸𝘢𝘴 𝘮𝘢𝘥𝘦 𝘣𝘺 𝘮𝘺 𝘦𝘱𝘪𝘤 𝘤𝘢𝘱𝘵𝘢𝘪𝘯 <img width="29" height="21" alt="Image" src="https://github.com/user-attachments/assets/924999fd-c683-49c3-ad59-3447c6c32f59" /> 𝘓𝘖𝘝𝘌 𝘜 𝘓𝘐𝘔𝘌!!!
+𝘢𝘸𝘦𝘴𝘰𝘮𝘦𝘥𝘳𝘰𝘪𝘥 𝘴𝘵𝘢𝘮𝘱 𝘸𝘢𝘴 𝘮𝘢𝘥𝘦 𝘣𝘺 𝘮𝘺 𝘦𝘱𝘪𝘤 𝘤𝘢𝘱𝘵𝘢𝘪𝘯  <img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/4f379619-6034-43eb-9fd4-d147b6c3c637" />  𝘓𝘖𝘝𝘌 𝘜 𝘓𝘐𝘔𝘌!!!
 </p>
