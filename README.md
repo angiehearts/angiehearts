@@ -9,7 +9,7 @@ BUH
 buhbuhbuhbuhbuhbuhbuh
 
 <p align="center">
-<img width="3000" height="1" alt="Image" src="https://github.com/user-attachments/assets/1066d330-48dc-484d-9807-894893b130d3" />
+<img width="3000" height="10" alt="Image" src="https://github.com/user-attachments/assets/1066d330-48dc-484d-9807-894893b130d3" />
 </p>
 
 <p align="center">
