@@ -7,11 +7,11 @@ BUH
 
 
 buhbuhbuhbuhbuhbuhbuh
-
+  
 <p align="center">
 <img width="3000" height="10" alt="Image" src="https://github.com/user-attachments/assets/1066d330-48dc-484d-9807-894893b130d3" />
 </p>
-
+  
 <p align="center">
 <img width="101" height="57" alt="Image" src="https://github.com/user-attachments/assets/1e334dee-2ee0-499b-834c-6c88c3584b6a" />
 <img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/29d03a8c-e872-4d10-bfd6-40ceb756ca1f" />
