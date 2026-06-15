@@ -1,7 +1,12 @@
 # BUH
 BUH
 
+<p align="center">
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/5d6512d1-e749-4c1b-9641-0ed09a1ae8a8" />
+</p>
 
+
+buhbuhbuhbuhbuhbuhbuh
 
 <p align="center">
 <img width="101" height="57" alt="Image" src="https://github.com/user-attachments/assets/1e334dee-2ee0-499b-834c-6c88c3584b6a" />
