@@ -2,7 +2,7 @@
 BUH
 
 <p align="center">
-<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/5d6512d1-e749-4c1b-9641-0ed09a1ae8a8" />
+<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/e0e055e7-4da0-4097-82eb-ad27a60b597a" />
 </p>
 
 
