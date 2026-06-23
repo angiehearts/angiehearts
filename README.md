@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-hi, readme will come soon. ok? ok. look at the repo labeled "test" while you're at it
+hi, readme will come soon. ok? ok. look at the repo labeled "test" while you're at it. everything on this acc rn is considered a placeholder
 </p>
 
 <p align="center">
