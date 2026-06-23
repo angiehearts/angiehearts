@@ -5,3 +5,11 @@
 <p align="center">
 hi, readme will come soon. ok? ok. look at the repo labeled "test" while you're at it
 </p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=angiehearts&label=hi&color=f0d330&style=plastic"/>
+</p>
+
+<p align="center">
+<img width="500" height="472" alt="Image" src="https://github.com/user-attachments/assets/01b4d563-c3a4-4dc6-944a-c4a63decc157" />
+</p>
