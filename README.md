@@ -7,7 +7,7 @@ hi, readme will come soon. ok? ok. look at the repo labeled "test" while you're 
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=angiehearts&label=hi&color=f0d330&style=plastic"/>
+<img src="https://komarev.com/ghpvc/?username=angiehearts&label=eridians&color=f0d330&style=plastic"/>
 </p>
 
 <p align="center">
