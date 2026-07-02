@@ -9,7 +9,7 @@ hi, readme will come soon. ok? ok. look at the repo labeled "test" while you're 
 ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ  ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ  ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ  ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ  ㅤㅤㅤㅤgo say hi to [captain](https://github.com/llimewire) ok he is my awesome boyfriend
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=angiehearts&label=eridians&color=f0d330&style=plastic"/>
+<img src="https://komarev.com/ghpvc/?username=graveyardsea&label=eridians&color=f0d330&style=plastic"/>
 </p>
 
 <p align="center">
